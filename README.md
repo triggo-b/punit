@@ -32,3 +32,4 @@ extension = php_memcache.dll
 9. Добавляем сервер/сервера memcached в исключения c://windows/system32/drivers/etc/hosts
 
 10. Memcached готов к работе! :)
+11. http://www.slideshare.net/fabpot/dependency-injection-in-php-5354
