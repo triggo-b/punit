@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ZEND, ajax, WeatherAPI
 ========
 https://github.com/moriony/padawan
@@ -33,9 +32,3 @@ extension = php_memcache.dll
 9. Добавляем сервер/сервера memcached в исключения c://windows/system32/drivers/etc/hosts
 
 10. Memcached готов к работе! :)
-=======
-first
-=====
-
-testRep
->>>>>>> c8a1273b9327845b62de899ad2b19a63cb67a630
