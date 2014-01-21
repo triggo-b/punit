@@ -1,5 +1,6 @@
 <?php
 namespace Weather;
+use Weather\Response as Response;
 
 class Client
 {
